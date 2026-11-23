@@ -13,8 +13,7 @@ export default function App() {
           <p className="hero-kicker">OPEN SOURCE STUDIO / WEEK 13</p>
           <h1>Build. Analyze. Deploy. Connect.</h1>
           <p>
-            One small React project for GitHub collaboration, component analysis,
-            Vercel deployment and REST API integration.
+            오픈소스 스튜디오 02분반 - 22500178 김지원 
           </p>
           <span className="hero-tag">CLASS PRACTICE ONLY · NO SUBMISSION</span>
         </section>
