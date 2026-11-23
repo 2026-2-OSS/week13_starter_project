@@ -10,13 +10,12 @@ export default function App() {
       <Header title="Open Source Studio" subtitle="Week 13 · React Mini Dashboard" />
       <main className="dashboard">
         <section className="hero">
-          <p className="hero-kicker">OPEN SOURCE STUDIO / WEEK 13</p>
+          <p className="hero-kicker">오픈소스 스튜디오 / 13주차</p>
           <h1>Build. Analyze. Deploy. Connect.</h1>
           <p>
-            One small React project for GitHub collaboration, component analysis,
-            Vercel deployment and REST API integration.
+            동해물과 백두산이 마르고 닳도록 하나님이 보우하사 우리나라 만세 무궁화 삼천리 화려강산 대한사람 대한으로 길이 보전하세
           </p>
-          <span className="hero-tag">CLASS PRACTICE ONLY · NO SUBMISSION</span>
+          <span className="hero-tag">이번 실습은 제출 없이 수업 중에만 만듭니다</span>
         </section>
 
         <section className="stats-grid" aria-label="Dashboard summary">
