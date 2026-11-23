@@ -44,6 +44,8 @@ button:focus-visible, input:focus-visible, select:focus-visible { outline: 3px s
 .search-input { width: 100%; min-width: 0; border-radius: 10px; border: 1px solid #dce4f0; padding: 11px 13px; color: #253451; background: #fcfdff; }
 .ghost-button { border: 1px solid #dce4f0; color: #425883; background: #f8faff; border-radius: 10px; padding: 10px 13px; font-size: 12px; font-weight: 750; white-space: nowrap; }
 .primary-button { border: 1px solid #2a54c2; color: #fff; background: #315fd1; border-radius: 10px; padding: 10px 13px; font-size: 12px; font-weight: 750; white-space: nowrap; }
+.primary-button:hover:not(:disabled) { background: #264db7; }
+.ghost-button:hover:not(:disabled) { background: #ecf2ff; }
 .primary-button:disabled, .ghost-button:disabled { opacity: .55; cursor: not-allowed; }
 .user-list { display: flex; flex-direction: column; gap: 0; padding: 0; margin: 0; list-style: none; }
 .user-row { display: flex; align-items: center; gap: 12px; padding: 13px 0; border-bottom: 1px solid #eef1f6; }
